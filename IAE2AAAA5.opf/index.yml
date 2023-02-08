@@ -1,0 +1,11 @@
+id: a0d84199e8844f0e9f9038cf81726550
+annotation_type: index
+revision: '00001'
+annotations:
+  7c9f43a43d774b91b63121b402cb77db:
+    base: 6F36.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 5519

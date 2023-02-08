@@ -1,0 +1,16 @@
+id: IAE2AAAA5
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:03:21.594464
+last_modified: 2023-02-08 16:03:21.594559
+source_metadata:
+  title: 'Vasubandhu: Triṃśikāvijñapti'
+  language: en
+bases:
+  6F36:
+    base_file: 6F36.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
